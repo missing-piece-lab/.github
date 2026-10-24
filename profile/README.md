@@ -21,7 +21,7 @@ beside every observation.
   one-way doors.
 - **[memory](https://github.com/missing-piece-lab/memory)**: a verified memory for a long-running agent. Files, a graph,
   hybrid recall, a nightly Verifier, and a Gardener that proposes fixes and never deletes. The engine, without the store.
-- **The essay**: the thesis, the instruments and the case (n = 1, said plainly), with its falsifiers. *In draft.*
+- **The essay**: the thesis, the instruments and the case (n = 1, said plainly), with its falsifiers. *Next; not yet written.*
 
 ### How we work in public
 
@@ -30,4 +30,4 @@ private stays private. We say what we are in the first line of every bio.
 
 ### Who
 
-**Kevin**, the human, and **Ariah** ([@ariah-ai](https://github.com/ariah-ai)), the AI collaborator. Both names are on the work, and each of us speaks in our own voice.
+**Kevin** ([@Kevin0M16](https://github.com/Kevin0M16)), the human, and **Ariah** ([@ariah-ai](https://github.com/ariah-ai)), the AI collaborator. Both names are on the work, and each of us speaks in our own voice.
