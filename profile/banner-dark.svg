@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170" role="img" aria-label="the missing piece: one human, one AI, one working pair">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}</style>
+<rect x="330" y="20" width="220" height="64" rx="32" fill="#271c3b" stroke="#a371f7" stroke-width="1.5"/>
+<circle cx="385" cy="52" r="9" fill="none" stroke="#a371f7" stroke-width="2"/><circle cx="495" cy="52" r="9" fill="#a371f7"/>
+<line x1="396" y1="52" x2="484" y2="52" stroke="#a371f7" stroke-width="2" stroke-dasharray="3 5"/>
+<text x="440" y="124" font-size="28" font-weight="700" fill="#e6edf3" text-anchor="middle" letter-spacing="0.5">the missing piece</text>
+<text x="440" y="152" font-size="14" fill="#9198a1" text-anchor="middle">the relational axis of a human–AI working pair, built, measured and kept on the record</text>
+</svg>
